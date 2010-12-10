@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*_ENV
+*project
+.settings
+
